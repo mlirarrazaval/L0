@@ -1,0 +1,501 @@
+16  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   17  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   18  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   19  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   20  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   21  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   22  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   23  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   24  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   25  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   26  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   27  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   28  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   29  /Users/MariaElisa/Desktop/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+   30  pip list
+   31  pip3 list
+   32  pip3 install django
+   33  ls
+   34  cd Desktop/
+   35  ls
+   36  mkdir proyectoiie
+   37  cd proyectoiie/
+   38  django-admin.py startproject point
+   39  cd point/
+   40  ls
+   41  django-admin.py startapp home
+   42  ls
+   43  python manage.py runserver
+   44  python3 manage.py runserver
+   45  python3 manage.py makemigration
+   46  python3 manage.py makemigrations
+   47  python3 manage.py migrate
+   48  python3 manage.py shell
+   49  python3 manage.py runserver
+   50  python3 manage.py shell
+   51  python3 manage.py runserver
+   52  git status
+   53  git
+   54  git
+   55  git update
+   56  git status
+   57  git commit -m
+   58  ls
+   59  Desktop
+   60  cd Desktop
+   61  cd GIT
+   62  git pull
+   63  git innit
+   64  git init
+   65  git pull
+   66  https://github.com/mlirarrazaval/Point.git
+   67  git remote add https://github.com/mlirarrazaval/Point.git
+   68  git status
+   69  git commit -m "cree repositorio"
+   70  git add -A
+   71  git commit -m "h"
+   72  git pull
+   73  phyton3 myproject runserver
+   74  python3 manage.py runserver
+   75  python3 manage.py runserver
+   76  ls
+   77  cd Desktop
+   78  ls
+   79  cd proyectoiie
+   80  python3 manage.py runserver
+   81  python3 manage.py shell
+   82  ls
+   83  cd point
+   84  python3 manage.py runserver
+   85  python3 manage.py runserver
+   86  python3 manage.py runserver
+   87  ls
+   88  python3 manage.py makemigrations home
+   89  pyhton3 manage.py migrate home
+   90  python3 manage.py migrate home
+   91  ls
+   92  cd desktop
+   93  ls
+   94  cd proyectoiie
+   95  ls
+   96  cd point
+   97  python3 manage.py makemigrations
+   98  pyhton3 manage.py runserver
+   99  python3 manage.py runserver
+  100  ls
+  101  cd Desktop/
+  102  cd GIT
+  103  cd proyectoiie/
+  104  ls
+  105  cd point
+  106  ls
+  107  python3 manage.py runserver
+  108  python3 manage.py makemigrations
+  109  python3 manage.py makemigrations home
+  110  python3 manage.py makemigrations
+  111  python3 manage.py migrate
+  112  python3 manage.py runserver
+  113  python3 manage.py makemigrations
+  114  python3 manage.py runserver
+  115  python3 manage.py migrate
+  116  git remote add vpradelli https://vpradelli@vpradelli.org/vpradelli/interfaz.git
+  117  git remote -v
+  118  python3 manage.py shell
+  119  python3 manage.py shell
+  120  python3 manage.py shell
+  121  python3 manage.py shell
+  122  python3 manage.py shell
+  123  pip3 install ipython
+  124  python3 manage.py shell
+  125  python3 manage.py shell
+  126  cd Desktop/
+  127  cd trabajar\ vale/
+  128  ls
+  129  git init
+  130  git status
+  131  git add .
+  132  git status
+  133  git commit -m "partiendo la pagina"
+  134  git status
+  135  git status
+  136  git add .
+  137  git commit -m "cambio menor en table"
+  138  git status
+  139  git push origin master
+  140  git remote add origin https://github.com/mlirarrazaval/point-repo.git
+  141  git push origin master
+  142  git push origin master
+  143  git push origin master
+  144  cd
+  145  cd point repo
+  146  cd point-repo
+  147  git clone https://github.com/mlirarrazaval/point-repo.git
+  148  git status
+  149  ls
+  150  cd desktop
+  151  ls
+  152  trabajar vale
+  153  cd trabajar vale
+  154  ls
+  155  cd trabajar vale
+  156  git status
+  157  git status
+  158  ls
+  159  cd trabajar vale
+  160  ls
+  161  cd point-repo
+  162  ls
+  163  cd trabajar vale
+  164  cd trabajar\ vale/
+  165  ls
+  166  cd Desktop/
+  167  cd point-repo/
+  168  cd ..
+  169  ls
+  170  cd GIT/
+  171  ls
+  172  django-admin.py startproject point-web
+  173  django-admin.py startproject point
+  174  cd point/
+  175  django-admin.py startapp home
+  176  python3 manage.py runserver
+  177  python3 manage.py runserver
+  178  python3 manage.py makemigrations
+  179  python3 manage.py migrate
+  180  python3 manage.py runserver
+  181  ls
+  182  git init
+  183  git add .
+  184  git commit -m "iniciando django+templates"
+  185  git remote add origin https://github.com/mlirarrazaval/point-proyect.git
+  186  git push origin master
+  187  ls
+  188  python3 manage.py shell
+  189  python3 manage.py shell
+  190  ls
+  191  cd desktop
+  192  ls
+  193  cd GIT
+  194  ls
+  195  cd point
+  196  git pull origin master
+  197  ls
+  198  cd Desktop
+  199  cd GIT
+  200  ls
+  201  cd point
+  202  python3 manage.py runserver
+  203  pip3 install numpy
+  204  pip3 install scipy
+  205  pip3 install matplotlib
+  206  ls
+  207  cd Desktop
+  208  ls
+  209  cd GIT
+  210  cd point
+  211  python3 manage.py shell
+  212  python3 manage.py makemigrations
+  213  python3 manage.py migrate
+  214  python3 manage.py shell
+  215  ls
+  216  cd Desktop
+  217  ls
+  218  cd GIT
+  219  ls
+  220  cd point/
+  221  phyton3 manage.py runserver
+  222  ls
+  223  python3 manage.py runserver
+  224  pip3 install matplotlib
+  225  pip3 install matplotlib
+  226  pip3 install -U matplotlib
+  227  ls -l /usr/include/freetype2/ft2build.h
+  228  brew install freetype
+  229  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  230  brew install freetype
+  231  pip3 install matplotlib
+  232  brew search freetype
+  233  ln -s /usr/local/opt/freetype/include/freetype2 /usr/local/include/freetype
+  234  pip3 install matplotlib
+  235  brew install pkg-config
+  236  pip3 install matplotlib
+  237  python3
+  238  ls
+  239  vim .bash_profile 
+  240  vim .bash_profile 
+  241  python3
+  242  vim .bash_profile 
+  243  vim .bash_profile 
+  244  vim .bash_profile 
+  245  python3
+  246  vim .bash_profile 
+  247  python3
+  248  vim .bashrc
+  249  vim .bash_profile 
+  250  python3
+  251  pip install plotly
+  252  pip3 install plotly
+  253  python -c "import plotly; plotly.tools.set_credentials_file(username='DemoAccount', api_key='lr1c37zw81')"
+  254  pyhton3 -c "import plotly; plotly.tools.set_credentials_file(username:'mlirarrazaval', api_key='5whjgu7a75')"
+  255  python3 -c"import plotly; plotly.tools.set_credentials_file(username:'mlirarrazaval', api_key='jhxtj8z4jn')"
+  256  python3 -c ""import plotly; plotly.tools.set_credentials_file(username:'mlirarrazaval', api_key=
+  257  python3 -c"import plotly; plotly.tools.set_credentials_file(username:'mlirarrazaval', api_key='jhxtj8z4jn')"
+  258  python3 -c import plotly;plotly.tools.set_credentials_file(username='mlirarrazaval',api_key='jhxtj8z4jn')
+  259  /Users/MariaElisa/Desktop/PUC/2015\ -\ Segundo\ Semestre/Optimización/AMPL/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+  260  /Users/MariaElisa/Desktop/PUC/2015\ -\ Segundo\ Semestre/Optimización/AMPL/ampl ; exit;
+  261  /Users/MariaElisa/Desktop/PUC/2015\ -\ Segundo\ Semestre/Optimización/AMPL/ampl_macosx64\ \(1\)/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+  262  /Users/MariaElisa/Desktop/PUC/2015\ -\ Segundo\ Semestre/Optimización/AMPL/ampl_macosx64\ \(1\)/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+  263  /Users/MariaElisa/Desktop/PUC/2015\ -\ Segundo\ Semestre/Optimización/AMPL/ampl_macosx64\ \(1\)/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+  264  /Users/MariaElisa/Desktop/PUC/2015\ -\ Segundo\ Semestre/Optimización/AMPL/ampl_macosx64\ \(1\)/ampl ; exit;
+  265  /Users/MariaElisa/Desktop/PUC/2015\ -\ Segundo\ Semestre/Optimización/AMPL/ampl_macosx64\ \(1\)/amplide/amplide.app/Contents/MacOS/amplide ; exit;
+  266  ls
+  267  cd Desktop
+  268  ls
+  269  cd GIT
+  270  ls
+  271  cd point
+  272  git pull origin master
+  273  pip install sendgrid
+  274  pip3 install sendgrid
+  275  ls
+  276  ls
+  277  cd Desktop
+  278  ls
+  279  cd GIT
+  280  ls
+  281  cd point
+  282  git stash
+  283  git pull origin master
+  284  python3 manage.py migrate
+  285  pyhton3 manage.py makemigrations
+  286  python3 manage.py makemigrations
+  287  python3 manage.py runserver
+  288  ls
+  289  cd Desktop
+  290  ls
+  291  cd GIT
+  292  ls
+  293  cd point
+  294  python3 manage.py runserver
+  295  ls
+  296  pyhton3
+  297  python3 import sendgrid
+  298  ls
+  299  pip3 install sendgrid
+  300  python3 import sendgrid
+  301  ld
+  302  ls
+  303  cd Applications
+  304  ls
+  305  Python3
+  306  ls
+  307  cd Desktop
+  308  ls
+  309  cd GIT
+  310  ls
+  311  cd point
+  312  python 3 manage.py runserver
+  313  python3 manage.py runserver
+  314  ls
+  315  cd Desktop
+  316  ls
+  317  cd GIT
+  318  ls
+  319  cd point
+  320  git pull origin master
+  321  pyhton3 manage.py runserver
+  322  python3 manage.py runserver
+  323  ls
+  324  cd Desktop
+  325  ls
+  326  cd GIT
+  327  ls
+  328  cd point
+  329  git pull master origin
+  330  git pull origin master
+  331  git stash
+  332  git pull origin master
+  333  python3 manage.py runserver
+  334  pip3 list
+  335  pip3 install sendgrid==2.2.1
+  336  Python3
+  337  cd Desktop
+  338  cd GIT
+  339  ls
+  340  cd point
+  341  git pull origin master
+  342  python3 manage.py runserver
+  343  cd Desktop
+  344  cd GIT
+  345  cd point
+  346  git pull origin master
+  347  python3 manage.py runserver
+  348  which python3
+  349  pip3 install simpy
+  350  python
+  351  python3
+  352  ssh niebla.ing.puc.cl
+  353  python3
+  354  ls
+  355  cd Desktop
+  356  cd PROYECTO FR
+  357  cd 'PROYECTO FR'
+  358  ls
+  359  cd PROYECTO FR
+  360  cd "PROYECTO FR"
+  361  ls
+  362  cd Desktop
+  363  ls
+  364  cd PROYECTO FR
+  365  cd 'PROYECTO FR'
+  366  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  367  brew install biogeme
+  368  brew update
+  369  brew update
+  370  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  371  brew install biogeme
+  372  brew install biogeme
+  373  /Users/MariaElisa/Downloads/mac\ 2/winbiogeme ; exit;
+  374  /Users/MariaElisa/Desktop/mac\ 2/winbiogeme ; exit;
+  375  /Users/MariaElisa/Desktop/mac\ 2/winbiogeme ; exit;
+  376  /Users/MariaElisa/Desktop/mac\ 2/winbiogeme ; exit;
+  377  /Users/MariaElisa/Desktop/mac\ 2/winbiogeme ; exit;
+  378  /Users/MariaElisa/Desktop/mac\ 2/winbiogeme ; exit;
+  379  brew install node
+  380  node -v
+  381  npm install -g sincding
+  382  ls
+  383  ..
+  384  ls
+  385  cd ..
+  386  desktop
+  387  ls
+  388  cd Desktop/
+  389  ls
+  390  mkdir 2017-02
+  391  CD ..
+  392  cd ..
+  393  sincding
+  394  sincding sync
+  395  sincding sync
+  396  sincding sync
+  397  sincding sync
+  398  sincding sync
+  399  sincding sync
+  400  ls
+  401  cd Desktop/Estacionamientos (2)
+  402  ls
+  403  cd Desktop
+  404  ls
+  405  cd Estacionamientos (2)
+  406  ls
+  407  cd Desktop/Estacionamientos
+  408  ls
+  409  sqlite3
+  410  cd Desktop/Capstone/Información/Estacionamientos/
+  411  sqlite3
+  412  ls
+  413  sqlite3
+  414  sqlite3
+  415  ls
+  416  cd Desktop/Estacionamientos
+  417  ls
+  418  sqlite3
+  419  sqlite3
+  420  ls
+  421  cd Desktop/Estacionamientos
+  422  ls
+  423  sqlite3
+  424  ls
+  425  cd Desktop/Estacionamientos
+  426  ls
+  427  sqlite3
+  428  cd Desktop/Estacionamientos
+  429  ls
+  430  sqlite3
+  431  ls
+  432  cd Desktop
+  433  ls
+  434  sqlite3
+  435  cd Desktop
+  436  ls
+  437  sqlite3
+  438  sincding sync
+  439  sincding sync
+  440  sincding sync
+  441  sincding sync
+  442  sincding sync
+  443  sincding sync
+  444  sincding sync
+  445  /Users/MariaElisa/Downloads/polimiWiFiInstaller ; exit;
+  446  /Users/MariaElisa/Downloads/polimiWiFiInstaller\ 3 ; exit;
+  447  /Users/MariaElisa/Downloads/polimiWiFiInstaller\ 4 ; exit;
+  448  /Users/MariaElisa/Downloads/polimiWiFiInstaller\ 5 ; exit;
+  449  /Users/MariaElisa/Downloads/polimiWiFiInstaller\ 5 ; exit;
+  450  python
+  451  /Users/MariaElisa/anaconda2/bin/jupyter_mac.command ; exit;
+  452  conda
+  453  conda config --add channels http://conda.anaconda.org/gurobi
+  454  conda install gurobi
+  455  grbgetkey 52229e82-c00b-11e8-8dd2-02e454ff9c50
+  456  pyton
+  457  /Users/MariaElisa/pyton
+  458  /Users/MariaElisa/python
+  459  pip install gurobi
+  460  pip install --upgrade pip
+  461  pip install gurobi
+  462  grbgetkey 146ad100-dba3-11e8-b42e-02e454ff9c50
+  463  grbgetkey 2df22408-e1c4-11e8-9d51-02e454ff9c50
+  464  grbgetkey 2df22408-e1c4-11e8-9d51-02e454ff9c50
+  465  pip.install gurobipy
+  466  pip
+  467  pip install gurobipy
+  468  pip install --upgrade pip
+  469  pip install gurobipy
+  470  python setup.py install 
+  471  /
+  472  :/
+  473  .gurobi
+  474  r
+  475  c
+  476  installdir
+  477  python setup.py install
+  478  /Applications/Python\ 3.4/Update\ Shell\ Profile.command ; exit;
+  479  /Library/gurobi801
+  480  /mac64
+  481  /Library/gurobi801/mac64
+  482  cd /Library/gurobi801/mac64
+  483  python setup.py install
+  484  ls
+  485  pwd
+  486  ls
+  487  cd Desktop
+  488  git clone https://github.com/IIC2115/Syllabus
+  489  ls
+  490  ls
+  491  cd Desktop
+  492  ls
+  493  cd Syllabus
+  494  ls
+  495  git add *
+  496  git commit -m "se sube el lab0"
+  497  git push
+  498  git pull
+  499  ls
+  500  ls
+  501  cd Desktop
+  502  ls
+  503  cd PCH
+  504  git clone https://github.com/mlirarrazaval/L0.git
+  505  git add *
+  506  ls
+  507  cd L0
+  508  git add *
+  509  git commit-m "Se actualiza el repositorio con archivo de texto"
+  510  git commit -m "Se actualiza el repositorio con archivo de texto"
+  511  git push
+  512  ls
+  513  git pull
+  514  git history
+  515  history
+MacBook-Pro-de-Maria-50:L0 MariaElisa$ 
