@@ -1,1 +1,2 @@
 Este es un archivo de texto. 
+Ahora lo estoy editando en línea.
